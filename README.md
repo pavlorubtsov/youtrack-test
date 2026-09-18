@@ -11,3 +11,5 @@ Step 3 line for the command test.
 Step 5 line for the webhook timing test.
 
 Step 4 line on a feature branch, no key in the message.
+
+Step 3 retry after committer mapping.
