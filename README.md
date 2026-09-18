@@ -9,3 +9,5 @@ Added for the GHT-1 commit-to-issue linking check.
 Step 3 line for the command test.
 
 Step 5 line for the webhook timing test.
+
+Step 4 line on a feature branch, no key in the message.
